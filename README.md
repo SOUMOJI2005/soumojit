@@ -1,2 +1,3 @@
 # soumojit
-am a engineering student
+am an engineering student
+author soumojit barui
